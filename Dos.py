@@ -1,4 +1,17 @@
-
+#Noob Editors
+#Posy you mother Editor
+from colorama import init, Fore
+init()
+from random import choice, randint
+print("-----ami.not-----")
+print(Fore.GREEN+'''
+  
+                   _               _
+                  (_)             | |
+    __ _ _ __ ___  _   _ __   ___ | |_
+   / _` | '_ ` _ \| | | '_ \ / _ \| __|
+  | (_| | | | | | | | | | | | (_) | |_
+   \__,_|_| |_| |_|_| |_| |_|\___/ \__|''')
 import time
 import socket
 import sys
